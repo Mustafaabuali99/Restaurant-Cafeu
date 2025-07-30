@@ -32,6 +32,23 @@
     font-size: 16px;
 
 }
+.nav-link.dropdown-toggle::after{
+    display: none !important;
+}
+
+.hover-section1 a:hover{
+    color: var(--mainColor);
+    transition: 0.3s;
+  }
+  .hover-section1 i:hover{
+    color: var(--mainColor);
+    transition: 0.3s;
+  }
+  .hover-section1 p:hover{
+    color: var(--mainColor);
+    transition: 0.3s;
+  }
+  
 .color-section-Home1{
     color:#666;
 }
