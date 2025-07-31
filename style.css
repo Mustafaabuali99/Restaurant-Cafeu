@@ -221,8 +221,14 @@
 
 .section8:hover{
     color: var(--mainColor);
+    transition: 0.3s;
 
 }
+.team-card img {
+  height: 350px;
+    width: 100%;
+ }
+
 .line-section8{
     width:200px;
     height: 2px;
@@ -253,6 +259,10 @@
 }
 .section10 h4:hover{
     color:  var(--mainColor);
+}
+.section10-img img{
+     height: 300px;
+    width: 100%;
 }
 .bg-section11{
     background-image: url(./assets/img/home-section11/bg11.webp);
@@ -441,4 +451,10 @@
     width:35px;
     
   }
-  
+  .fs-section1{
+    font-size: 15px;
+  }
+ .menu-img {
+    height: 250px;
+    width: 100%;
+ }
