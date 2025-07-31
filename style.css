@@ -1,10 +1,4 @@
-body {
-  overflow-x: hidden;
-}
-img, div, section {
-  max-width: 100%;
-  box-sizing: border-box;
-}
+
 :root{
     --mainColor:#c33;
 }
@@ -464,4 +458,8 @@ img, div, section {
  .menu-img {
     height: 250px;
     width: 100%;
+ }
+ .img-About-section3{
+    width: auto;
+    height: 500px;
  }
