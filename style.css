@@ -1,4 +1,17 @@
 
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+  overflow-x: hidden;
+}
+img, div, section {
+  max-width: 100%;
+  box-sizing: border-box;
+}
 :root{
     --mainColor:#c33;
 }
