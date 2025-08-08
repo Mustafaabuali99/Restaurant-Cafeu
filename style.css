@@ -357,8 +357,8 @@
     background-size:cover ;
     background-repeat: no-repeat;
     background-position: center; 
-    height: 100vh; 
 }
+
 
 .rotate-90 {
     transform: rotate(90deg);
